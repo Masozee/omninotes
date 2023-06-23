@@ -1,0 +1,28 @@
+# Django development files
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+
+
+# Database files
+*.sqlite3
+
+
+# Media files
+/media/
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.pyc
+
+# Dependency directories
+venv/
+env/
